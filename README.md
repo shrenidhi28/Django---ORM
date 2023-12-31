@@ -10,20 +10,28 @@ Include your ER diagram here
 ## DESIGN STEPS
 
 ### STEP 1:
+clone the problem from Github
 
 ### STEP 2:
+create a new app in Django Project
+
 
 ### STEP 3:
+enter the code for admin.py and model.py
 
-Write your own steps
+### STEP 4:
+execute django admin and create 10 Football players
+
 
 ## PROGRAM
 
-Include your code here
+![image](https://github.com/shrenidhi28/Django---ORM/assets/155261096/9be01d84-139e-457f-a135-52ddf4a7cecb)
 
 ## OUTPUT
 
-Include the screenshot of your admin page.
+![image](https://github.com/shrenidhi28/Django---ORM/assets/155261096/90f7d23a-2883-45db-b3da-98af5296fe12)
+
 
 
 ## RESULT
+the program has been successfully executed
